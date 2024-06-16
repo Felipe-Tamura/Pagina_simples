@@ -1,9 +1,9 @@
-Página simples - Tags em HTML e suas funcionalidades
+## Página simples - Tags em HTML e suas funcionalidades
 
-Criando uma página simples para aprender sobre cada tag aprensentada em aula
+Criando uma [página simples](#página-simples) para aprender sobre cada tag aprensentada em aula
 
  * &lt;!doctype html&gt; => Informa ao navegador que este é um arquivo HTML e qual a sua versão;
- * &lt;html&gt; => Abrange todo os elementos da página;
+ * &lt;html&gt; => Abrange todos os elementos da página;
  * &lt;head&gt; => Cabeçalho do página;
  * &lt;title&gt; => Título da página;
  * &lt;body&gt; => Corpo do site. onde ficará o conteúdo;
@@ -11,4 +11,8 @@ Criando uma página simples para aprender sobre cada tag aprensentada em aula
  * &lt;p&gt; => Marcação de páragrafo do conteúdo.
  * &lt;strong&gt; => Deixa a marcação do texto mais "forte".
 
-Com estas tags conseguimos apresentar conteúdos de artigos, noticias, livros, receitas, blogs, etc. 
+Com estas tags conseguimos apresentar conteúdos de artigos, noticias, livros, receitas, blogs, etc.
+
+## Página simples
+
+<img src="src/img_pagina_simples.png" alt="" heigth="500" width="500">
