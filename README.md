@@ -15,4 +15,6 @@ Com estas tags conseguimos apresentar conteúdos de artigos, noticias, livros, r
 
 ## Página simples
 
-<img src="src/img_pagina_simples.png" alt="" heigth="500" width="500">
+<p align="center">
+    <img src="src/img_pagina_simples.png" alt="" heigth="500" width="500">
+</p>
